@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1474442866 source:c:\users\posd\desktop\posd2016f\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\simplestring.h
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\testresult.h
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\failure.h
+	"SimpleString.h"
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\testregistry.h
+
+1474603331 c:\users\posd\desktop\posd2016f\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	<vector>
+
+1474603370 c:\users\posd\desktop\posd2016f\shapes\shapes.h
+	<vector>
+
+1474605874 source:c:\users\jiaqi\desktop\posd2016f-master\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+
+1474605874 c:\users\jiaqi\desktop\posd2016f-master\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1474605874 c:\users\jiaqi\desktop\posd2016f-master\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1474605874 c:\users\jiaqi\desktop\posd2016f-master\cppunitlite\simplestring.h
+
+1474605874 c:\users\jiaqi\desktop\posd2016f-master\cppunitlite\testresult.h
+
+1474605874 c:\users\jiaqi\desktop\posd2016f-master\cppunitlite\failure.h
+	"SimpleString.h"
+
+1474605874 c:\users\jiaqi\desktop\posd2016f-master\cppunitlite\testregistry.h
+
+1475163026 c:\users\jiaqi\desktop\posd2016f-master\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	<vector>
+
+1475162530 c:\users\jiaqi\desktop\posd2016f-master\shapes\shapes.h
+	<vector>
+	<cmath>
+	<iostream>
+
+1474605874 source:e:\posd2016f-master\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+
+1474605874 e:\posd2016f-master\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1474605874 e:\posd2016f-master\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1474605874 e:\posd2016f-master\cppunitlite\simplestring.h
+
+1474605874 e:\posd2016f-master\cppunitlite\testresult.h
+
+1474605874 e:\posd2016f-master\cppunitlite\failure.h
+	"SimpleString.h"
+
+1474605874 e:\posd2016f-master\cppunitlite\testregistry.h
+
+1475215820 e:\posd2016f-master\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	<vector>
+
+1475215756 e:\posd2016f-master\shapes\shapes.h
+	<vector>
+	<cmath>
+	<iostream>
+
+1474605874 source:j:\2321312312312\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+
+1474605874 j:\2321312312312\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1474605874 j:\2321312312312\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1474605874 j:\2321312312312\cppunitlite\simplestring.h
+
+1474605874 j:\2321312312312\cppunitlite\testresult.h
+
+1474605874 j:\2321312312312\cppunitlite\failure.h
+	"SimpleString.h"
+
+1474605874 j:\2321312312312\cppunitlite\testregistry.h
+
+1475657648 j:\2321312312312\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	<vector>
+
+1475657648 j:\2321312312312\shapes\shapes.h
+	<vector>
+	<cmath>
+	<iostream>
+	<algorithm>
+
+1474605874 source:c:\users\thefalling\desktop\105598402hw2\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+
+1474605874 c:\users\thefalling\desktop\105598402hw2\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1474605874 c:\users\thefalling\desktop\105598402hw2\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1474605874 c:\users\thefalling\desktop\105598402hw2\cppunitlite\simplestring.h
+
+1474605874 c:\users\thefalling\desktop\105598402hw2\cppunitlite\testresult.h
+
+1474605874 c:\users\thefalling\desktop\105598402hw2\cppunitlite\failure.h
+	"SimpleString.h"
+
+1474605874 c:\users\thefalling\desktop\105598402hw2\cppunitlite\testregistry.h
+
+1475813908 c:\users\thefalling\desktop\105598402hw2\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	<vector>
+
+1475751046 c:\users\thefalling\desktop\105598402hw2\shapes\shapes.h
+	<vector>
+	<cmath>
+	<iostream>
+	<algorithm>
+

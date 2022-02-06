@@ -1,2 +1,3 @@
-Pattern-oriented Software Design Fall2016
-https://www.cc.ntut.edu.tw/~yccheng/posd2016f/posd.htm
+HW3
+
+![image](https://github.com/JiaqiFeng99/P_O_S_D/blob/master/HW3/hw3.PNG)

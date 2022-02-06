@@ -1,0 +1,2 @@
+combo(r(1 10 2 8) c(2 1 1) c(9 9 9) r(8 8 8 8) )
+comboExclamation{rTall cSmall cA rA }

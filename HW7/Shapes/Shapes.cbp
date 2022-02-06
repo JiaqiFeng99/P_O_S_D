@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Shapes" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Shapes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Shapes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="../cppunitlite/libCppUnitLite.a" />
+				</Linker>
+			</Target>
+			<Target title="[Source]Debug">
+				<Option output="bin/Debug/Shapes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="[Source]Release">
+				<Option output="bin/Release/Shapes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="../cppunitlite/libCppUnitLite.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Analyzer.h" />
+		<Unit filename="Command.h">
+			<Option target="[Source]Release" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="CommandManager.h">
+			<Option target="[Source]Release" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="ShapeMedia.h" />
+		<Unit filename="Shapes.h" />
+		<Unit filename="conio.h">
+			<Option target="[Source]Release" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="main.cpp">
+			<Option target="Debug" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="source.main.cpp">
+			<Option target="[Source]Debug" />
+			<Option target="[Source]Release" />
+		</Unit>
+		<Unit filename="utShapes.h">
+			<Option target="Debug" />
+			<Option target="Release" />
+			<Option target="[Source]Debug" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

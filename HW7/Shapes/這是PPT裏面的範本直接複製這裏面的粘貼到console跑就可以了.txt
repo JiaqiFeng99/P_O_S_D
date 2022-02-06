@@ -1,0 +1,13 @@
+:- def cSmall = Circle(2,1,1)
+:- def rTall = Rectangle(1,10,2,8)
+:- rTall.area?
+:- def comboExclamation = combo{rTall,cSmall}
+:- comboExclamation.perimeter?
+:- save comboExclamation to "myShapes.txt"
+:- show
+:- load "myShapes.txt"
+:- delete rTall from comboExclamation
+:- show
+:- def cMale = Circle(3,2,1)
+:- add cMale to comboExclamation
+:- show

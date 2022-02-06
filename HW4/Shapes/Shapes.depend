@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1475652066 source:c:\users\posd\desktop\posd2016f\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\simplestring.h
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\testresult.h
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\failure.h
+	"SimpleString.h"
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\testregistry.h
+
+1477021192 c:\users\posd\desktop\posd2016f\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	"ShapeMedia.h"
+	<vector>
+	<iostream>
+
+1476417699 c:\users\posd\desktop\posd2016f\shapes\shapes.h
+	<vector>
+	<string>
+	<sstream>
+
+1477021188 c:\users\posd\desktop\posd2016f\shapes\shapemedia.h
+	"Shapes.h"
+	<vector>
+	<string>
+
+1476969604 source:c:\users\thefalling\desktop\hw4\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+
+1476969604 c:\users\thefalling\desktop\hw4\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1476969604 c:\users\thefalling\desktop\hw4\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1476969604 c:\users\thefalling\desktop\hw4\cppunitlite\simplestring.h
+
+1476969604 c:\users\thefalling\desktop\hw4\cppunitlite\testresult.h
+
+1476969604 c:\users\thefalling\desktop\hw4\cppunitlite\failure.h
+	"SimpleString.h"
+
+1476969604 c:\users\thefalling\desktop\hw4\cppunitlite\testregistry.h
+
+1478077159 c:\users\thefalling\desktop\hw4\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	"ShapeMedia.h"
+	<vector>
+	<iostream>
+
+1477652146 c:\users\thefalling\desktop\hw4\shapes\shapes.h
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+
+1478076667 c:\users\thefalling\desktop\hw4\shapes\shapemedia.h
+	"Shapes.h"
+	"Text.h"
+	<vector>
+	<string>
+
+1477900608 c:\users\thefalling\desktop\hw4\shapes\text.h
+	"Shapes.h"
+

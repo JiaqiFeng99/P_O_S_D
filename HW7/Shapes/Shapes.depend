@@ -1,0 +1,631 @@
+# depslib dependency file v1.0
+1475652066 source:c:\users\posd\desktop\posd2016f\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\simplestring.h
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\testresult.h
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\failure.h
+	"SimpleString.h"
+
+1473838394 c:\users\posd\desktop\posd2016f\cppunitlite\testregistry.h
+
+1478073676 c:\users\posd\desktop\posd2016f\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	"ShapeMedia.h"
+	<vector>
+	<iostream>
+	<stack>
+
+1476417699 c:\users\posd\desktop\posd2016f\shapes\shapes.h
+	<vector>
+	<string>
+	<sstream>
+
+1478073038 c:\users\posd\desktop\posd2016f\shapes\shapemedia.h
+	"Shapes.h"
+	<vector>
+	<string>
+
+1481006180 source:c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+	"Analyzer.h"
+	<string>
+	<iostream>
+	<cstdio>
+
+1479388406 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1479388406 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1479388406 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6\cppunitlite\simplestring.h
+
+1479388406 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6\cppunitlite\testresult.h
+
+1479388406 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6\cppunitlite\failure.h
+	"SimpleString.h"
+
+1479388406 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6\cppunitlite\testregistry.h
+
+1481006317 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	"ShapeMedia.h"
+	"Analyzer.h"
+	<vector>
+	<iostream>
+
+1480924417 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6\shapes\shapes.h
+	<vector>
+	<string>
+	<sstream>
+
+1480953381 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6\shapes\shapemedia.h
+	"Shapes.h"
+	<vector>
+	<string>
+	<stack>
+
+1481006180 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6\shapes\analyzer.h
+	"ShapeMedia.h"
+	<iostream>
+	<algorithm>
+
+1481212563 source:c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6 - 狡籹\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+	"Analyzer.h"
+	<string>
+	<iostream>
+	<cstdio>
+
+1479388406 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6 - 狡籹\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1479388406 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6 - 狡籹\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1479388406 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6 - 狡籹\cppunitlite\simplestring.h
+
+1479388406 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6 - 狡籹\cppunitlite\testresult.h
+
+1479388406 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6 - 狡籹\cppunitlite\failure.h
+	"SimpleString.h"
+
+1479388406 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6 - 狡籹\cppunitlite\testregistry.h
+
+1481212563 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6 - 狡籹\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	"ShapeMedia.h"
+	"Analyzer.h"
+	<vector>
+	<iostream>
+
+1481014114 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6 - 狡籹\shapes\shapes.h
+	<vector>
+	<string>
+	<sstream>
+
+1481185530 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6 - 狡籹\shapes\shapemedia.h
+	"Shapes.h"
+	<vector>
+	<string>
+	<stack>
+
+1481262573 c:\users\thefalling\desktop\posd2016f-master (2)\105598402_hw6 - 狡籹\shapes\analyzer.h
+	"ShapeMedia.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+
+1481124310 source:h:\105598402_hw6 - 複製\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+	"Analyzer.h"
+	<string>
+	<iostream>
+	<cstdio>
+
+1479388406 h:\105598402_hw6 - 複製\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1479388406 h:\105598402_hw6 - 複製\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1479388406 h:\105598402_hw6 - 複製\cppunitlite\simplestring.h
+
+1479388406 h:\105598402_hw6 - 複製\cppunitlite\testresult.h
+
+1479388406 h:\105598402_hw6 - 複製\cppunitlite\failure.h
+	"SimpleString.h"
+
+1479388406 h:\105598402_hw6 - 複製\cppunitlite\testregistry.h
+
+1481124310 h:\105598402_hw6 - 複製\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	"ShapeMedia.h"
+	"Analyzer.h"
+	<vector>
+	<iostream>
+
+1481014114 h:\105598402_hw6 - 複製\shapes\shapes.h
+	<vector>
+	<string>
+	<sstream>
+
+1481105572 h:\105598402_hw6 - 複製\shapes\shapemedia.h
+	"Shapes.h"
+	<vector>
+	<string>
+	<stack>
+
+1481131736 h:\105598402_hw6 - 複製\shapes\analyzer.h
+	"ShapeMedia.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+
+1481212563 source:e:\105598402_hw6\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+	"Analyzer.h"
+	<string>
+	<iostream>
+	<cstdio>
+
+1479388406 e:\105598402_hw6\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1479388406 e:\105598402_hw6\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1479388406 e:\105598402_hw6\cppunitlite\simplestring.h
+
+1479388406 e:\105598402_hw6\cppunitlite\testresult.h
+
+1479388406 e:\105598402_hw6\cppunitlite\failure.h
+	"SimpleString.h"
+
+1479388406 e:\105598402_hw6\cppunitlite\testregistry.h
+
+1482913845 e:\105598402_hw6\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	"ShapeMedia.h"
+	"Analyzer.h"
+	<vector>
+	<iostream>
+
+1481014114 e:\105598402_hw6\shapes\shapes.h
+	<vector>
+	<string>
+	<sstream>
+
+1481185530 e:\105598402_hw6\shapes\shapemedia.h
+	"Shapes.h"
+	<vector>
+	<string>
+	<stack>
+
+1481262573 e:\105598402_hw6\shapes\analyzer.h
+	"ShapeMedia.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+
+1481212563 source:e:\105598402_hw7\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+	"Analyzer.h"
+	<string>
+	<iostream>
+	<cstdio>
+
+1479388406 e:\105598402_hw7\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1479388406 e:\105598402_hw7\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1479388406 e:\105598402_hw7\cppunitlite\simplestring.h
+
+1479388406 e:\105598402_hw7\cppunitlite\testresult.h
+
+1479388406 e:\105598402_hw7\cppunitlite\failure.h
+	"SimpleString.h"
+
+1479388406 e:\105598402_hw7\cppunitlite\testregistry.h
+
+1482913845 e:\105598402_hw7\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	"ShapeMedia.h"
+	"Analyzer.h"
+	<vector>
+	<iostream>
+
+1481014114 e:\105598402_hw7\shapes\shapes.h
+	<vector>
+	<string>
+	<sstream>
+
+1481185530 e:\105598402_hw7\shapes\shapemedia.h
+	"Shapes.h"
+	<vector>
+	<string>
+	<stack>
+
+1481262573 e:\105598402_hw7\shapes\analyzer.h
+	"ShapeMedia.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+
+1481212563 source:e:\105598402_hw7 - 狡籹 - 狡籹\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+	"Analyzer.h"
+	<string>
+	<iostream>
+	<cstdio>
+
+1479388406 e:\105598402_hw7 - 狡籹 - 狡籹\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1479388406 e:\105598402_hw7 - 狡籹 - 狡籹\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1479388406 e:\105598402_hw7 - 狡籹 - 狡籹\cppunitlite\simplestring.h
+
+1479388406 e:\105598402_hw7 - 狡籹 - 狡籹\cppunitlite\testresult.h
+
+1479388406 e:\105598402_hw7 - 狡籹 - 狡籹\cppunitlite\failure.h
+	"SimpleString.h"
+
+1479388406 e:\105598402_hw7 - 狡籹 - 狡籹\cppunitlite\testregistry.h
+
+1482913845 e:\105598402_hw7 - 狡籹 - 狡籹\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	"ShapeMedia.h"
+	"Analyzer.h"
+	<vector>
+	<iostream>
+
+1481014114 e:\105598402_hw7 - 狡籹 - 狡籹\shapes\shapes.h
+	<vector>
+	<string>
+	<sstream>
+
+1481185530 e:\105598402_hw7 - 狡籹 - 狡籹\shapes\shapemedia.h
+	"Shapes.h"
+	<vector>
+	<string>
+	<stack>
+
+1482998819 e:\105598402_hw7 - 狡籹 - 狡籹\shapes\analyzer.h
+	"ShapeMedia.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+
+1483001351 source:e:\105598402_hw7 - 狡籹 - 狡籹\shapes\source.main.cpp
+	"utShapes.h"
+	"Analyzer.h"
+	"conio.h"
+	<string>
+	<iostream>
+	<cstdio>
+	"CommandManager.h"
+
+1483002515 e:\105598402_hw7 - 狡籹 - 狡籹\shapes\conio.h
+	<_mingw.h>
+
+1483000254 e:\105598402_hw7 - 狡籹 - 狡籹\shapes\commandmanager.h
+	"Command.h"
+
+1482999797 e:\105598402_hw7 - 狡籹 - 狡籹\shapes\command.h
+
+1483031628 source:d:\新建文件夹\105598402_hw7 - 複製 - 複製\shapes\source.main.cpp
+	"utShapes.h"
+	"Analyzer.h"
+	<iostream>
+	"CommandManager.h"
+
+1483121493 d:\新建文件夹\105598402_hw7 - 複製 - 複製\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	"ShapeMedia.h"
+	"Analyzer.h"
+	"Command.h"
+	"CommandManager.h"
+	<vector>
+	<iostream>
+
+1479388406 d:\新建文件夹\105598402_hw7 - 複製 - 複製\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1479388406 d:\新建文件夹\105598402_hw7 - 複製 - 複製\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1479388406 d:\新建文件夹\105598402_hw7 - 複製 - 複製\cppunitlite\simplestring.h
+
+1479388406 d:\新建文件夹\105598402_hw7 - 複製 - 複製\cppunitlite\testresult.h
+
+1479388406 d:\新建文件夹\105598402_hw7 - 複製 - 複製\cppunitlite\failure.h
+	"SimpleString.h"
+
+1479388406 d:\新建文件夹\105598402_hw7 - 複製 - 複製\cppunitlite\testregistry.h
+
+1481014114 d:\新建文件夹\105598402_hw7 - 複製 - 複製\shapes\shapes.h
+	<vector>
+	<string>
+	<sstream>
+
+1483091164 d:\新建文件夹\105598402_hw7 - 複製 - 複製\shapes\shapemedia.h
+	"Shapes.h"
+	<vector>
+	<string>
+	<stack>
+
+1483093421 d:\新建文件夹\105598402_hw7 - 複製 - 複製\shapes\analyzer.h
+	"ShapeMedia.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Command.h"
+	"CommandManager.h"
+
+1483093531 d:\新建文件夹\105598402_hw7 - 複製 - 複製\shapes\command.h
+	"ShapeMedia.h"
+
+1483029961 d:\新建文件夹\105598402_hw7 - 複製 - 複製\shapes\commandmanager.h
+	"Command.h"
+
+1481212563 source:d:\新建文件夹\105598402_hw7 - 複製 - 複製\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+	"Analyzer.h"
+	<string>
+	<iostream>
+	<cstdio>
+
+1481212564 source:l:\105598402_hw7 - 狡籹 - 狡籹\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+	"Analyzer.h"
+	<string>
+	<iostream>
+	<cstdio>
+
+1479388406 l:\105598402_hw7 - 狡籹 - 狡籹\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1479388406 l:\105598402_hw7 - 狡籹 - 狡籹\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1479388406 l:\105598402_hw7 - 狡籹 - 狡籹\cppunitlite\simplestring.h
+
+1479388406 l:\105598402_hw7 - 狡籹 - 狡籹\cppunitlite\testresult.h
+
+1479388406 l:\105598402_hw7 - 狡籹 - 狡籹\cppunitlite\failure.h
+	"SimpleString.h"
+
+1479388406 l:\105598402_hw7 - 狡籹 - 狡籹\cppunitlite\testregistry.h
+
+1483510150 l:\105598402_hw7 - 狡籹 - 狡籹\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	"ShapeMedia.h"
+	"Analyzer.h"
+	"Command.h"
+	"CommandManager.h"
+	<vector>
+
+1481014114 l:\105598402_hw7 - 狡籹 - 狡籹\shapes\shapes.h
+	<vector>
+	<string>
+	<sstream>
+
+1483091166 l:\105598402_hw7 - 狡籹 - 狡籹\shapes\shapemedia.h
+	"Shapes.h"
+	<vector>
+	<string>
+	<stack>
+
+1483511270 l:\105598402_hw7 - 狡籹 - 狡籹\shapes\analyzer.h
+	"ShapeMedia.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Command.h"
+	"CommandManager.h"
+
+1483445560 l:\105598402_hw7 - 狡籹 - 狡籹\shapes\command.h
+	"ShapeMedia.h"
+
+1483029962 l:\105598402_hw7 - 狡籹 - 狡籹\shapes\commandmanager.h
+	"Command.h"
+
+1483031630 source:l:\105598402_hw7 - 狡籹 - 狡籹\shapes\source.main.cpp
+	"utShapes.h"
+	"Analyzer.h"
+	<iostream>
+	"CommandManager.h"
+
+1483031630 source:h:\105598402_hw7 - 複製 - 複製\shapes\source.main.cpp
+	"utShapes.h"
+	"Analyzer.h"
+	<iostream>
+	"CommandManager.h"
+
+1483510150 h:\105598402_hw7 - 複製 - 複製\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	"ShapeMedia.h"
+	"Analyzer.h"
+	"Command.h"
+	"CommandManager.h"
+	<vector>
+
+1479388406 h:\105598402_hw7 - 複製 - 複製\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1479388406 h:\105598402_hw7 - 複製 - 複製\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1479388406 h:\105598402_hw7 - 複製 - 複製\cppunitlite\simplestring.h
+
+1479388406 h:\105598402_hw7 - 複製 - 複製\cppunitlite\testresult.h
+
+1479388406 h:\105598402_hw7 - 複製 - 複製\cppunitlite\failure.h
+	"SimpleString.h"
+
+1479388406 h:\105598402_hw7 - 複製 - 複製\cppunitlite\testregistry.h
+
+1481014114 h:\105598402_hw7 - 複製 - 複製\shapes\shapes.h
+	<vector>
+	<string>
+	<sstream>
+
+1483091166 h:\105598402_hw7 - 複製 - 複製\shapes\shapemedia.h
+	"Shapes.h"
+	<vector>
+	<string>
+	<stack>
+
+1483511270 h:\105598402_hw7 - 複製 - 複製\shapes\analyzer.h
+	"ShapeMedia.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Command.h"
+	"CommandManager.h"
+
+1483445560 h:\105598402_hw7 - 複製 - 複製\shapes\command.h
+	"ShapeMedia.h"
+
+1483029962 h:\105598402_hw7 - 複製 - 複製\shapes\commandmanager.h
+	"Command.h"
+
+1483031630 source:h:\105598402_hw7\shapes\source.main.cpp
+	"utShapes.h"
+	"Analyzer.h"
+	<iostream>
+	"CommandManager.h"
+
+1483510150 h:\105598402_hw7\shapes\utshapes.h
+	"..\cppunitlite\TestHarness.h"
+	"Shapes.h"
+	"ShapeMedia.h"
+	"Analyzer.h"
+	"Command.h"
+	"CommandManager.h"
+	<vector>
+
+1479388406 h:\105598402_hw7\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1479388406 h:\105598402_hw7\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1479388406 h:\105598402_hw7\cppunitlite\simplestring.h
+
+1479388406 h:\105598402_hw7\cppunitlite\testresult.h
+
+1479388406 h:\105598402_hw7\cppunitlite\failure.h
+	"SimpleString.h"
+
+1479388406 h:\105598402_hw7\cppunitlite\testregistry.h
+
+1481014114 h:\105598402_hw7\shapes\shapes.h
+	<vector>
+	<string>
+	<sstream>
+
+1483091166 h:\105598402_hw7\shapes\shapemedia.h
+	"Shapes.h"
+	<vector>
+	<string>
+	<stack>
+
+1483511270 h:\105598402_hw7\shapes\analyzer.h
+	"ShapeMedia.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Command.h"
+	"CommandManager.h"
+
+1483445560 h:\105598402_hw7\shapes\command.h
+	"ShapeMedia.h"
+
+1483029962 h:\105598402_hw7\shapes\commandmanager.h
+	"Command.h"
+
+1481212564 source:h:\105598402_hw7\shapes\main.cpp
+	"..\cppunitlite\TestHarness.h"
+	"utShapes.h"
+	"Analyzer.h"
+	<string>
+	<iostream>
+	<cstdio>
+

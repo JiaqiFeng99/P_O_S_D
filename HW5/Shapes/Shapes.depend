@@ -1,0 +1,497 @@
+# depslib dependency file v1.0
+1477572560 source:f:\posd\shapes\main.cpp
+	"cppunitlite\TestHarness.h"
+	"ut.h"
+
+1476969604 f:\posd\shapes\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1476969604 f:\posd\shapes\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1476969604 f:\posd\shapes\cppunitlite\simplestring.h
+
+1476969604 f:\posd\shapes\cppunitlite\testresult.h
+
+1476969604 f:\posd\shapes\cppunitlite\failure.h
+	"SimpleString.h"
+
+1476969604 f:\posd\shapes\cppunitlite\testregistry.h
+
+1477617649 f:\posd\shapes\ut.h
+	"cppunitlite\TestHarness.h"
+	<vector>
+	<iostream>
+	"Shapes.h"
+	"Point.h"
+	"Media.h"
+	"Visitor.h"
+	"Builder.h"
+
+1477577502 f:\posd\shapes\shapes.h
+	<string>
+	"Point.h"
+
+1477582689 source:f:\posd\shapes\shapes.cpp
+	"math.h"
+	"Shapes.h"
+	<string>
+	<sstream>
+
+1477573376 f:\posd\shapes\point.h
+
+1477617667 f:\posd\shapes\media.h
+	<vector>
+	<string>
+	"Shapes.h"
+	"Visitor.h"
+
+1477617479 source:f:\posd\shapes\media.cpp
+	<string>
+	"Media.h"
+	"Visitor.h"
+
+1477616721 f:\posd\shapes\visitor.h
+	<string>
+	"Media.h"
+
+1477617014 source:f:\posd\shapes\visitor.cpp
+	<string>
+	"Media.h"
+	"Visitor.h"
+
+1477582288 source:f:\posd\shapes\builder.cpp
+	"Builder.h"
+
+1477580862 f:\posd\shapes\builder.h
+	"Shapes.h"
+	"Media.h"
+
+1477628710 source:c:\users\david\desktop\shapes\builder.cpp
+	"Builder.h"
+
+1477580864 c:\users\david\desktop\shapes\builder.h
+	"Shapes.h"
+	"Media.h"
+
+1477577504 c:\users\david\desktop\shapes\shapes.h
+	<string>
+	"Point.h"
+
+1477573378 c:\users\david\desktop\shapes\point.h
+
+1477905570 c:\users\david\desktop\shapes\media.h
+	<vector>
+	<string>
+	"Shapes.h"
+	"Visitor.h"
+	"Text.h"
+
+1477880788 c:\users\david\desktop\shapes\visitor.h
+	<string>
+	"Media.h"
+
+1477572562 source:c:\users\david\desktop\shapes\main.cpp
+	"cppunitlite\TestHarness.h"
+	"ut.h"
+
+1476969604 c:\users\david\desktop\shapes\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1476969604 c:\users\david\desktop\shapes\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1476969604 c:\users\david\desktop\shapes\cppunitlite\simplestring.h
+
+1476969604 c:\users\david\desktop\shapes\cppunitlite\testresult.h
+
+1476969604 c:\users\david\desktop\shapes\cppunitlite\failure.h
+	"SimpleString.h"
+
+1476969604 c:\users\david\desktop\shapes\cppunitlite\testregistry.h
+
+1479706879 c:\users\david\desktop\shapes\ut.h
+	"cppunitlite\TestHarness.h"
+	<vector>
+	<iostream>
+	"Shapes.h"
+	"Point.h"
+	"Media.h"
+	"Visitor.h"
+	"Builder.h"
+	"Text.h"
+	"Document.h"
+	"Director.h"
+
+1477910990 source:c:\users\david\desktop\shapes\media.cpp
+	<string>
+	<iostream>
+	"Media.h"
+	"Visitor.h"
+
+1477582690 source:c:\users\david\desktop\shapes\shapes.cpp
+	"math.h"
+	"Shapes.h"
+	<string>
+	<sstream>
+
+1477899412 source:c:\users\david\desktop\shapes\visitor.cpp
+	<string>
+	"Media.h"
+	"Visitor.h"
+
+1477899236 c:\users\david\desktop\shapes\text.h
+	<string>
+	"Shapes.h"
+
+1479696767 c:\users\david\desktop\shapes\document.h
+	<string>
+	<fstream>
+
+1479706732 source:c:\users\david\desktop\shapes\document.cpp
+	"Document.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1479704643 c:\users\david\desktop\shapes\director.h
+	"Builder.h"
+	<stack>
+	<string>
+
+1479706537 source:c:\users\david\desktop\shapes\director.cpp
+	"Director.h"
+	"Shapes.h"
+	"Point.h"
+	"Visitor.h"
+	<iostream>
+	<stack>
+	<string>
+	<sstream>
+
+1477628710 source:c:\users\thefalling\desktop\shapes\builder.cpp
+	"Builder.h"
+
+1477580864 c:\users\thefalling\desktop\shapes\builder.h
+	"Shapes.h"
+	"Media.h"
+
+1477577504 c:\users\thefalling\desktop\shapes\shapes.h
+	<string>
+	"Point.h"
+
+1477573378 c:\users\thefalling\desktop\shapes\point.h
+
+1477905570 c:\users\thefalling\desktop\shapes\media.h
+	<vector>
+	<string>
+	"Shapes.h"
+	"Visitor.h"
+	"Text.h"
+
+1477880788 c:\users\thefalling\desktop\shapes\visitor.h
+	<string>
+	"Media.h"
+
+1477899236 c:\users\thefalling\desktop\shapes\text.h
+	<string>
+	"Shapes.h"
+
+1479706537 source:c:\users\thefalling\desktop\shapes\director.cpp
+	"Director.h"
+	"Shapes.h"
+	"Point.h"
+	"Visitor.h"
+	<iostream>
+	<stack>
+	<string>
+	<sstream>
+
+1479704643 c:\users\thefalling\desktop\shapes\director.h
+	"Builder.h"
+	<stack>
+	<string>
+
+1479706732 source:c:\users\thefalling\desktop\shapes\document.cpp
+	"Document.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1479696767 c:\users\thefalling\desktop\shapes\document.h
+	<string>
+	<fstream>
+
+1477572562 source:c:\users\thefalling\desktop\shapes\main.cpp
+	"cppunitlite\TestHarness.h"
+	"ut.h"
+
+1476969604 c:\users\thefalling\desktop\shapes\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1476969604 c:\users\thefalling\desktop\shapes\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1476969604 c:\users\thefalling\desktop\shapes\cppunitlite\simplestring.h
+
+1476969604 c:\users\thefalling\desktop\shapes\cppunitlite\testresult.h
+
+1476969604 c:\users\thefalling\desktop\shapes\cppunitlite\failure.h
+	"SimpleString.h"
+
+1476969604 c:\users\thefalling\desktop\shapes\cppunitlite\testregistry.h
+
+1479706879 c:\users\thefalling\desktop\shapes\ut.h
+	"cppunitlite\TestHarness.h"
+	<vector>
+	<iostream>
+	"Shapes.h"
+	"Point.h"
+	"Media.h"
+	"Visitor.h"
+	"Builder.h"
+	"Text.h"
+	"Document.h"
+	"Director.h"
+
+1477910990 source:c:\users\thefalling\desktop\shapes\media.cpp
+	<string>
+	<iostream>
+	"Media.h"
+	"Visitor.h"
+
+1477582690 source:c:\users\thefalling\desktop\shapes\shapes.cpp
+	"math.h"
+	"Shapes.h"
+	<string>
+	<sstream>
+
+1477899412 source:c:\users\thefalling\desktop\shapes\visitor.cpp
+	<string>
+	"Media.h"
+	"Visitor.h"
+
+1477628710 source:h:\hw5\shapes\builder.cpp
+	"Builder.h"
+
+1477580864 h:\hw5\shapes\builder.h
+	"Shapes.h"
+	"Media.h"
+
+1477577504 h:\hw5\shapes\shapes.h
+	<string>
+	"Point.h"
+
+1477573378 h:\hw5\shapes\point.h
+
+1477905570 h:\hw5\shapes\media.h
+	<vector>
+	<string>
+	"Shapes.h"
+	"Visitor.h"
+	"Text.h"
+
+1477880788 h:\hw5\shapes\visitor.h
+	<string>
+	"Media.h"
+
+1477899236 h:\hw5\shapes\text.h
+	<string>
+	"Shapes.h"
+
+1479706734 source:h:\hw5\shapes\document.cpp
+	"Document.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1479696768 h:\hw5\shapes\document.h
+	<string>
+	<fstream>
+
+1477572562 source:h:\hw5\shapes\main.cpp
+	"cppunitlite\TestHarness.h"
+	"ut.h"
+
+1476969604 h:\hw5\shapes\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1476969604 h:\hw5\shapes\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1476969604 h:\hw5\shapes\cppunitlite\simplestring.h
+
+1476969604 h:\hw5\shapes\cppunitlite\testresult.h
+
+1476969604 h:\hw5\shapes\cppunitlite\failure.h
+	"SimpleString.h"
+
+1476969604 h:\hw5\shapes\cppunitlite\testregistry.h
+
+1479744340 h:\hw5\shapes\ut.h
+	"cppunitlite\TestHarness.h"
+	<vector>
+	<iostream>
+	"Shapes.h"
+	"Point.h"
+	"Media.h"
+	"Visitor.h"
+	"Builder.h"
+	"Text.h"
+	"Document.h"
+	"Director.h"
+
+1479704644 h:\hw5\shapes\director.h
+	"Builder.h"
+	<stack>
+	<string>
+
+1477910990 source:h:\hw5\shapes\media.cpp
+	<string>
+	<iostream>
+	"Media.h"
+	"Visitor.h"
+
+1477582690 source:h:\hw5\shapes\shapes.cpp
+	"math.h"
+	"Shapes.h"
+	<string>
+	<sstream>
+
+1477899412 source:h:\hw5\shapes\visitor.cpp
+	<string>
+	"Media.h"
+	"Visitor.h"
+
+1479744218 source:h:\hw5\shapes\director.cpp
+	"Director.h"
+	"Shapes.h"
+	"Point.h"
+	"Visitor.h"
+	<iostream>
+	<stack>
+	<string>
+	<sstream>
+
+1477628710 source:f:\hw5\shapes\builder.cpp
+	"Builder.h"
+
+1477580864 f:\hw5\shapes\builder.h
+	"Shapes.h"
+	"Media.h"
+
+1477577504 f:\hw5\shapes\shapes.h
+	<string>
+	"Point.h"
+
+1477573378 f:\hw5\shapes\point.h
+
+1477905570 f:\hw5\shapes\media.h
+	<vector>
+	<string>
+	"Shapes.h"
+	"Visitor.h"
+	"Text.h"
+
+1477880788 f:\hw5\shapes\visitor.h
+	<string>
+	"Media.h"
+
+1477899236 f:\hw5\shapes\text.h
+	<string>
+	"Shapes.h"
+
+1479744464 source:f:\hw5\shapes\director.cpp
+	"Director.h"
+	"Shapes.h"
+	"Point.h"
+	"Visitor.h"
+	<iostream>
+	<stack>
+	<string>
+	<sstream>
+
+1479704644 f:\hw5\shapes\director.h
+	"Builder.h"
+	<stack>
+	<string>
+
+1479706734 source:f:\hw5\shapes\document.cpp
+	"Document.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1479696768 f:\hw5\shapes\document.h
+	<string>
+	<fstream>
+
+1477572562 source:f:\hw5\shapes\main.cpp
+	"cppunitlite\TestHarness.h"
+	"ut.h"
+
+1476969604 f:\hw5\shapes\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1476969604 f:\hw5\shapes\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1476969604 f:\hw5\shapes\cppunitlite\simplestring.h
+
+1476969604 f:\hw5\shapes\cppunitlite\testresult.h
+
+1476969604 f:\hw5\shapes\cppunitlite\failure.h
+	"SimpleString.h"
+
+1476969604 f:\hw5\shapes\cppunitlite\testregistry.h
+
+1479744340 f:\hw5\shapes\ut.h
+	"cppunitlite\TestHarness.h"
+	<vector>
+	<iostream>
+	"Shapes.h"
+	"Point.h"
+	"Media.h"
+	"Visitor.h"
+	"Builder.h"
+	"Text.h"
+	"Document.h"
+	"Director.h"
+
+1477910990 source:f:\hw5\shapes\media.cpp
+	<string>
+	<iostream>
+	"Media.h"
+	"Visitor.h"
+
+1477582690 source:f:\hw5\shapes\shapes.cpp
+	"math.h"
+	"Shapes.h"
+	<string>
+	<sstream>
+
+1477899412 source:f:\hw5\shapes\visitor.cpp
+	<string>
+	"Media.h"
+	"Visitor.h"
+
